@@ -102,4 +102,3 @@ Material académico para la formación en **Visión por Computadora**
 <a href="#top">⬆ Volver al inicio</a>
 
 </div>
-```
