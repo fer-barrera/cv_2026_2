@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👁️ Visión por Computadora
+# Visión por Computadora
 
 ### Fundamentos, algoritmos y aplicaciones para el análisis de imágenes
 
